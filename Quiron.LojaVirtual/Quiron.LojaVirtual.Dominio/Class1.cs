@@ -8,6 +8,6 @@ namespace Quiron.LojaVirtual.Dominio
 {
     public class Class1
     {
-        public int idade { get; set; }
+       
     }
 }
